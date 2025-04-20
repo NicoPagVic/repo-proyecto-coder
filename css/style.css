@@ -1,3 +1,22 @@
-.bk-ni-nav{
-    background-color: blueviolet;
+
+.botonform{
+    --bs-btn-bg: #f3d216;
+    --bs-btn-border-color: #dbbe17;
+    --bs-btn-hover-bg: #dbbe17;
+    --bs-btn-hover-border-color: #dbbe17;
+    --bs-btn-active-bg: #dbbe17;
+    --bs-btn-active-border-color: #dbbe17;
+}
+
+.bgft{
+    background-color: rgb(190, 190, 190);
+}
+
+.headertx{
+    font-size: 65px;
+    font-weight: bolder;
+}
+
+.formma{
+    margin-bottom: 17%;
 }
