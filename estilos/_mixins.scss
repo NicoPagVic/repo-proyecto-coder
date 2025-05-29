@@ -1,0 +1,13 @@
+@mixin botonform{
+    background-color: $boton;
+    border-color: $boton-sec;
+    color: white;
+    padding: .5rem 1rem;
+    border: none;
+    border-radius: $border-radius;
+    cursor: pointer;
+
+    &:hover{
+        background-color: $boton-sec;
+    }
+}

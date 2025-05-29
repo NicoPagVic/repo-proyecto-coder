@@ -1,0 +1,17 @@
+//Estilo de componentes
+.botonform{
+    @include botonform;
+}
+
+.headertx{
+    font-size: 65px;
+    font-weight: bolder;
+}
+
+.formma{
+    margin-bottom: 21%;
+}
+
+.fondo-hero{
+    background-color: $background-col-hero;
+}
